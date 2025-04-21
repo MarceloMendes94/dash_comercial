@@ -118,4 +118,6 @@ Calcula a participação (%) da medida atual em relação ao total no nível hie
 
 ## Dashboard
 
-
+![01](./imagens_doc/Dash1.jpeg)
+![02](./imagens_doc/Dash2.jpeg)
+![03](./imagens_doc/Dash3.jpeg)
